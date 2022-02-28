@@ -8,14 +8,9 @@ section {
 }
 
 section h1 {
-    color: red;
-    text-align: center;
-    width: 20%;
+    color: black;
+
     margin: 2pc auto;
-    font-size: 42px;
-    outline-color: silver;
-    outline-style: outset;
-    outline-width: 5px;
 }
 
 .game--container {
